@@ -159,9 +159,7 @@ PORT=8080 npm run start
 
 This project is licensed under the UNLICENSED license.
 
-## 👨‍💻 Author
 
-[Your Name/Organization]
 
 ## 🔗 Links
 
